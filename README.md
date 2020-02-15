@@ -4,7 +4,13 @@ This is a Windows Forms application written in C# for managing users, products, 
 
 ![Inv-APp](resources/inv-app.gif)
 
-## How to Build
+## Requirements
+* Visual Studios IDE 2017 or higher
+* MySQL Database Server
+
+## Installation and Configuration
+1. Download the zip of this app
+2.
 
 ## License
 This project is licensed under MIT. Please see [LICENSE file](https://github.com/nate51315/InventoryApplication/blob/master/LICENSE)
