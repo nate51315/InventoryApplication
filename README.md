@@ -2,7 +2,7 @@
 
 This is a Windows Forms application written in C# for managing users, products, customers and orders. This app utilizes a database to preform CRUD operations. The UI design is plain and simple.
 
-![Inv-APp](https://imgur.com/a/0RtizkA)
+![Inv-APp](resources/inv-app.gif)
 
 ### Requirements
 * Visual Studio IDE
