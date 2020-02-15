@@ -12,12 +12,12 @@ This is a Windows Forms application written in C# for managing users, products, 
 To build and run this application, follow the below steps
 ### Installation
 1. Download and install Visual Studios 2017 or higher
-2. Run Visual Studio Installer and select
-  * .NET Desktop Development
-  * Data Storage and Processing
-  then install
-3. Install SQL Server 2019
-4. Download and install SQL Server Management Studio (SSMS)
+2. Run Visual Studio Installer and install
+    - .NET Desktop Development
+    - Data Storage and Processing
+    
+3. Install SQL Server 2019 [HERE](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+4. Download and install SQL Server Management Studio 18 [(SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
  
 
 ## License
