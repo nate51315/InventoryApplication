@@ -14,4 +14,4 @@ This is a Windows Forms application written in C# for managing users, products, 
 3. Connect app to database through app settings
 
 ## License
-This project is licensed under MIT. Please see [LICENSE file](InventoryApplication/LICENSE)
+This project is licensed under MIT. Please see [LICENSE file](https://github.com/nate51315/InventoryApplication/blob/master/LICENSE)
