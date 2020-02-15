@@ -4,10 +4,6 @@ This is a Windows Forms application written in C# for managing users, products, 
 
 ![Inv-APp](resources/inv-app.gif)
 
-## Requirements
-* Visual Studios IDE 2017 or higher
-* MySQL Database Server
-
 ## Building
 To build and run this application, follow the below steps
 ### Installation
