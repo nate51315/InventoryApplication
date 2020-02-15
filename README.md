@@ -3,7 +3,7 @@
 This is a Windows Forms application written in C# for managing users, products, customers and orders. This app utilizes a database to preform CRUD operations. The UI design is plain and simple.
 
 ### Requirements
-* Visual Studio 2017 or 2019 IDE
+* Visual Studio IDE
 * MySQL RDBMS
 
 ### How to run the app
