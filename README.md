@@ -11,7 +11,7 @@ This is a Windows Forms application written in C# for managing users, products, 
 ## Building
 To build and run this application, follow the below steps
 ### Installation
-1. Download and install Visual Studios 2017 or higher
+1. Download Visual Studios Community IDE 2019 [Latest Version](https://visualstudio.microsoft.com/vs/)
 2. Run Visual Studio Installer and install
     - .NET Desktop Development
     - Data Storage and Processing
