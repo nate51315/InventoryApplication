@@ -7,6 +7,11 @@ This is a Windows Forms application written in C# for managing users, products, 
 ## Installation
 To build and run this application, follow the steps below if needed
 
+### Requirements
+* Visual Studio IDE
+* SQL Server
+* SQL Server Management Studio
+
 ### Visual Studios IDE Installation
 1. View Microsoft's official Visual Studios [download page](https://visualstudio.microsoft.com/downloads/)
 2. Select Visual Studios 2019 Community and install
@@ -28,6 +33,8 @@ To build and run this application, follow the steps below if needed
 4. After the setup is complete launch SSMS
 5. Create a server or log into one
 
+ ## Configuration
+ 
  
 
 ## License
