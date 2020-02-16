@@ -4,24 +4,24 @@ This is a Windows Forms application written in C# for managing users, products, 
 
 ![Inv-APp](resources/inv-app.gif)
 
-## Building
+## Installation
 To build and run this application, follow the steps below if needed
 
-#### Visual Studios IDE Installation
+### Visual Studios IDE Installation
 1. View Microsoft's official Visual Studios [download page](https://visualstudio.microsoft.com/downloads/)
 2. Select Visual Studios 2019 Community and install
 3. After the installation completes open Visual Studio Installer
 4. Select and install 
-    - .NET Desktop Development
-    - Data Storage and Processing
+    * .NET Desktop Development
+    * Data Storage and Processing
     
-#### SQL Server Installation
+### SQL Server Installation
 1. View Microsoft's official SQL Server [download page](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 2. Select Developer or Express then download
 3. Choose the basic installation type
 4. Install at default directory location
 
-#### SQL Server Management Studio Installation
+### SQL Server Management Studio Installation
 1. View Microsoft's official (SSMS) [download page](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 2. Click the link to download SSMS
 3. Follow the steps and click install at the end
