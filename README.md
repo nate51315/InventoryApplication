@@ -13,19 +13,13 @@ To build and run this application, follow the steps below
     - .NET Desktop Development
     - Data Storage and Processing
     
+##### SQL Server Installation
 3. Install SQL Server 2019 [Latest Version](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
+##### SQL Server Management Studio Installation
 4. Download and install SQL Server Management Studio 18 [(SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 5. 
 
-### Configuration
-1.
-2.
-3.
-
-### Setup
-1.
-2.
-3.
  
 
 ## License
