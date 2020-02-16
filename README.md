@@ -1,6 +1,6 @@
 # InventoryApplication
 
-This is a Windows Forms application written in C# for managing users, products, customers and orders. This app utilizes a database to preform CRUD operations. The UI design is plain and simple.
+This is a Windows Forms application written in C# to help manage and track inventory levels, orders, and sales.
 
 <a href="https://imgur.com/syVYoFg"><img src="https://i.imgur.com/syVYoFg.gif" title="source: imgur.com" /></a>
 
@@ -10,8 +10,7 @@ This is a Windows Forms application written in C# for managing users, products, 
 * SQL Server Management Studio
 
 ## Installation
-To build and run this app you must meet the requirements. If the 
-requirements are met then skip the installation section.
+This section will help get the requirements for the app.
 
 ### Visual Studios IDE Installation
 1. View Microsoft's official Visual Studios [download page](https://visualstudio.microsoft.com/downloads/)
@@ -37,6 +36,5 @@ requirements are met then skip the installation section.
  ## Configuration
  
  
-
 ## License
 This project is licensed under MIT. Please see [LICENSE file](https://github.com/nate51315/InventoryApplication/blob/master/LICENSE)
