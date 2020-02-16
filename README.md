@@ -5,9 +5,9 @@ This is a Windows Forms application written in C# for managing users, products, 
 ![Inv-APp](resources/inv-app.gif)
 
 ## Installation
-To build and run this application, follow the steps below if needed
+The requirements for the app are below. Skip the Installation section if requirements are met.
 
-### Requirements
+## Requirements
 * Visual Studio IDE
 * SQL Server
 * SQL Server Management Studio
