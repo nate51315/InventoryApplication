@@ -5,11 +5,13 @@ This is a Windows Forms application written in C# for managing users, products, 
 ![Inv-APp](resources/inv-app.gif)
 
 ## Building
-To build and run this application, follow the steps below
+To build and run this application, follow the steps below if needed
 
-#### Visual Studios Installation
-1. Download Visual Studios Community IDE 2017 [Latest Version](https://visualstudio.microsoft.com/vs/)
-2. Run Visual Studio Installer and install
+#### Visual Studios IDE Installation
+1. View Microsoft's official Visual Studios [download page](https://visualstudio.microsoft.com/downloads/)
+2. Select Visual Studios 2019 Community and install
+3. After the installation completes open Visual Studio Installer
+4. Select and install 
     - .NET Desktop Development
     - Data Storage and Processing
     
