@@ -14,10 +14,17 @@ To build and run this application, follow the steps below
     - Data Storage and Processing
     
 #### SQL Server Installation
-Install SQL Server 2019 [Latest Version](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+1. View Microsoft's official SQL Server [download page](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+2. Select Developer or Express then download
+3. Choose the basic installation type
+4. Install at default directory location
 
 #### SQL Server Management Studio Installation
-Download and install SQL Server Management Studio 18 [(SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+1. View Microsoft's official (SSMS) [download page](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+2. Click the link to download SSMS
+3. Follow the steps and click install at the end
+4. After the setup is complete launch SSMS
+5. Create a server or log into one
 
  
 
