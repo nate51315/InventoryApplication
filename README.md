@@ -3,7 +3,7 @@
 <a href="https://imgur.com/syVYoFg"><img src="https://i.imgur.com/syVYoFg.gif" title="source: imgur.com" /></a>
 
 ### Inventory Application
-This is a Windows Forms application written in C# to help manage and track inventory levels, orders, and sales.
+This is a Windows Forms application written in C# with a MySQL back-end to manage inventory, orders, and sales records.
 
 ### Requirements
 * Visual Studio IDE
