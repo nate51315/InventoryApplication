@@ -1,6 +1,6 @@
 # InventoryApplication
 
-<a href="https://imgur.com/syVYoFg"><img src="https://i.imgur.com/syVYoFg.gif" title="source: imgur.com" /></a>
+![GIF](https://github.com/nate51315/InventoryApplication/blob/master/InventoryApp.gif)
 
 ### Inventory Application
 This is a Windows Forms application written in C# with a MySQL back-end to manage inventory, orders, and sales records.
