@@ -35,8 +35,8 @@ This section will help get the requirements for the app.
 5. Create a server or log into one
 
  ## Configuration
- 1. Create an empty database using MySQL.
- 2. Locate the file called scripts within the reposirty.
+ 1. Create an empty database using MySQL Server.
+ 2. Locate the file called scripts within this repository.
  3. Import the file to populate the database and import the stored procedures.
  
  
